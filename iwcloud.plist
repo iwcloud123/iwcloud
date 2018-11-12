@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wap.js.10086.cn/userfiles/file/pic/ecmc.ipa</string>
+					<string>https://iwcloud123.github.io/iwcloud/nlsoft.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wap.js.10086.cn/userfiles/file/pic/57.png</string>
+					<string>https://iwcloud123.github.io/iwcloud/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wap.js.10086.cn/userfiles/file/pic/512.png</string>
+					<string>https://iwcloud123.github.io/iwcloud/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jsmcc.ZP7267A6E</string>
+				<string>cn.com.nlsoft.test</string>
 				<key>bundle-version</key>
 				<string>5.2.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>App</string>
 				<key>title</key>
-				<string>ECMC</string>
+				<string>nlsoft</string>
 			</dict>
 		</dict>
 	</array>
