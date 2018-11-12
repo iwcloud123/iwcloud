@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.nlsoft.test</string>
+				<string>com.jsmcc.ZP7267A6E</string>
 				<key>bundle-version</key>
-				<string>5.2.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>App</string>
 				<key>title</key>
-				<string>nlsoft</string>
+				<string>移动营业厅</string>
 			</dict>
 		</dict>
 	</array>
