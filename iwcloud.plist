@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jsmcc.ZP7267A6E</string>
+				<string>com.iwcloud.demo</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
